@@ -38,7 +38,6 @@
   * [Schematic](#electric_plug-Schematic)
   * [Installation](#gear-installation)
 - [Usage](#eyes-usage)
-- [Contributing](#wave-contributing)
 - [License](#warning-license)
 - [Contact](#handshake-contact)
 
@@ -164,7 +163,7 @@ Project Link: [https://github.com/cifertech/WiFiBox](https://github.com/cifertec
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements 
 
- - [802.11 Mgmt:Beacon Frame](https://mrncciew.com/2014/10/08/802-11-mgmt-beacon-frame/)
- - [spacehuhn](https://github.com/spacehuhn)
+ - [Motion HID Glove](https://www.thingiverse.com/thing:3673439)
+ - [Overwatch Junkrat Gauntlet](https://www.thingiverse.com/thing:1887603)
  
  
